@@ -9,10 +9,8 @@ What I'm up to
 Cybersecurity — how systems break, and how to defend them
 AI security — model vulnerabilities, safety, the edge of things
 Still grinding through the CS fundamentals, the right way
-Learning along the way
+Learning along the way:
 
 Security concepts, threat research, whatever catches my eye.
 
-Tech
-
-Computer Science (in progress) · security tooling · tinkerer
+Computer Science (in progress)
