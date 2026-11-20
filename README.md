@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi There
+I'm Ajay Krishna
 
-<!--
-**ajaykrishna-cs/ajaykrishna-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd year Computer Science student. Lately I've been heads-down on cybersecurity and AI security — the parts of CS where things get interesting.
 
-Here are some ideas to get you started:
+I'm the kind of person who won't let something be "good enough." Perfectionist, whether it's code or a gaming setup. Computers and gaming have always been my thing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm up to
+Cybersecurity — how systems break, and how to defend them
+AI security — model vulnerabilities, safety, the edge of things
+Still grinding through the CS fundamentals, the right way
+Learning along the way
+
+Security concepts, threat research, whatever catches my eye.
+
+Tech
+
+Computer Science (in progress) · security tooling · tinkerer
